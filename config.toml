@@ -284,7 +284,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       gravatarEmail = ""
       # URL of avatar shown in home page
       # 主页显示头像的 URL
-      avatarURL = "/images/bioinformatics.png"
+      avatarURL = "https://www.ous-research.no/bioinformatics/docs/bioinformatics_tags.png"
       # title shown in home page (HTML format is supported)
       # 主页显示的网站标题 (支持 HTML 格式)
       title = ""
@@ -310,7 +310,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # Social config in home page
   # 主页的社交信息设置
   [params.social]
-    GitHub = "https://github.com/DiuTe"
+    GitHub = "http://github.com/DiuTe"
     Bilibili = "85505770"
     Email = "Diuute99@gmail.com"
     Linkedin = ""
