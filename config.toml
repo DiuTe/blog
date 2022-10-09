@@ -5,7 +5,7 @@ baseURL = "https://diute.github.io/blog/"
 theme = "LoveIt"
 # themes directory
 # 主题目录
-themesDir = "../.."
+themesDir = "E:/Hugo/Sites/tdu-blog/themes"
 
 # website title
 # 网站标题
