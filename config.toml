@@ -310,7 +310,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # Social config in home page
   # 主页的社交信息设置
   [params.social]
-    GitHub = "DiuTe"
+    GitHub = ""
     Bilibili = "85505770"
     Email = "Diuute99@gmail.com"
     Linkedin = ""
